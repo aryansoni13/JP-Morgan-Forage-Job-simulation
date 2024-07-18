@@ -17,4 +17,5 @@ I worked on,<br>
 I learnt,<em> How to, </em><br>
 Modify the typescript files in repository to make the web application behave in the expected manner.<br><br>
 <code> technical communication </code>&nbsp; <code> financial analysis </code>&nbsp; <code> web applications </code><br>
-
+<h1> My Certificate of Completion </h1>
+<img src="https://github.com/aryansoni13/JP-Morgan-Forage-Job-simulation/blob/30f59e8c413f8b87b5cd331396a349b58dba1750/JP%20Morgan%20SWE%20Job%20simulation-1.png" alt="certificate of completion"/>
