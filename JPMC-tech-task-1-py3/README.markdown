@@ -1,7 +1,6 @@
 <br>
 <p align="center">
-</p>
-<h1> Introduction</h1> 
+</p> 
 <b> Experience Technology at JP Morgan Chase & Co</b>
 <p>Try out what real work is like in the technology team at JP Morgan Chase & Co. Fast track to the tech team with your work.</p>
 
