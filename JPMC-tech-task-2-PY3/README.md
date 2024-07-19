@@ -1,8 +1,5 @@
 <p align="center">
 
-<h1> Introduction</h1> 
-
-
 <h2 id="task"> Module 2 Task Overview </h2>
 <p>Use JP Morgan Chase's frameworks and tools
 Implement JP Morgan Chase’s Perspective open source code in preparation for data visualization</p>
